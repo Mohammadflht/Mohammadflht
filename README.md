@@ -5,11 +5,11 @@
 </p>
 
 # 🛠 Skills
-<p align="center">
-    <img src="https://github.com/1995parham/1995parham/raw/main/logo-lg.png"></img>
-    <img src="https://github.com/1995parham/1995parham/raw/main/logo-lg.png"></img>
-    <img src="https://github.com/1995parham/1995parham/raw/main/logo-lg.png"></img>
-    <img src="https://github.com/1995parham/1995parham/raw/main/logo-lg.png"></img>
+<p align="left">
+    <img src="https://github.com/Mohammadflht/Mohammadflht/blob/master/java-script.png"></img>
+    <img src="https://github.com/Mohammadflht/Mohammadflht/blob/master/html_1051277.png"></img>
+    <img src="https://github.com/Mohammadflht/Mohammadflht/blob/master/css-3_732190.png"></img>
+    <img src="https://github.com/Mohammadflht/Mohammadflht/blob/master/git_4494740.png"></img>
 
 </p>
 
