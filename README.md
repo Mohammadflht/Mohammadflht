@@ -21,8 +21,8 @@
 
 
 # 💻 Contact
-<a href="https://www.linkedin.com/in/mohammad-flht/" rel="some text"><img src="https://github.com/Mohammadflht/Mohammadflht/blob/master/linkedin_145807.png" alt="Linkedin"/></a>
-<a href="https://t.me/Moh_flht" rel="some text"><img src="https://github.com/Mohammadflht/Mohammadflht/blob/master/telegram_2111646.png" alt="Telegram"/></a>
+<a href="https://www.linkedin.com/in/mohammad-flht/" target="_blank" rel="some text"><img src="https://github.com/Mohammadflht/Mohammadflht/blob/master/linkedin_145807.png" alt="Linkedin"/></a>
+<a href="https://t.me/Moh_flht" target="_blank" rel="some text"><img src="https://github.com/Mohammadflht/Mohammadflht/blob/master/telegram_2111646.png" alt="Telegram"/></a>
 
 
 <!--
