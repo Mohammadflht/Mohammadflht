@@ -1,7 +1,7 @@
 # Hello Friends 👋
 
 <p align="center">
-  <img src="https://github.com/Mohammadflht/Mohammadflht/blob/master/Blush%20Botanical%20Aesthetic%20Gift%20Card%20Voucher.gif"></img>
+  <img src="https://github.com/Mohammadflht/Mohammadflht/blob/master/Blush%20Botanical%20Aesthetic%20Gift%20Card%20Voucher.gif" alt="myInfo"></img>
 </p>
 
 # 🛠 Skills
@@ -11,13 +11,16 @@
     <img src="https://github.com/Mohammadflht/Mohammadflht/blob/master/css-3_732190.png"></img>
     <img src="https://github.com/Mohammadflht/Mohammadflht/blob/master/git_4494740.png"></img>
 </p>
-<br><br><br><br><br>
+
+<br><br><br>
+<br><br><br>
 
 <p align="center">
   <img src="https://github.com/Mohammadflht/Mohammadflht/blob/master/giphy.gif"></img>
 </p>
 
-<br><br><br><br><br>
+<br><br><br>
+<br><br><br>
 
 
 # 💻 Contact me
