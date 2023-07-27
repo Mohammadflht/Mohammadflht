@@ -22,8 +22,12 @@
 <br><br><br>
 <br><br><br>
 
+# 📊 Github Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohammadflht&theme=chartreuse-dark&hide_border=false)
+
+<br><br><br>
+<br><br><br>
 
 # 💻 Contact me
 <a target="_blank" href="https://www.linkedin.com/in/mohammad-flht/" rel="some text"><img src="https://github.com/Mohammadflht/Mohammadflht/blob/master/linkedin_145807.png" alt="Linkedin"/></a>
 <a target="_blank" href="https://t.me/Moh_flht" rel="some text"><img src="https://github.com/Mohammadflht/Mohammadflht/blob/master/telegram_2111646.png" alt="Telegram"/></a>
-
