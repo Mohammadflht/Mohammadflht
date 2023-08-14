@@ -18,7 +18,7 @@
 <br><br><br>
 
 <p align="center">
-  <img src="https://github.com/Mohammadflht/Mohammadflht/blob/master/giphy.gif"></img>
+  <img src="giphy.gif"></img>
 </p>
 
 <br><br><br>
