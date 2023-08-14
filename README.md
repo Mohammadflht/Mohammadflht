@@ -1,10 +1,9 @@
 # Hello Friends 👋
 
 <p align="center">
-    <br><br><br><br>
-  <img src="My info 1.gif" alt="myInfo"></img>  
   <br><br><br><br>
-  
+  <img src="My info.gif" alt="myInfo"></img>  
+  <br><br><br><br>
 </p>
 
 # 🛠 Skills
