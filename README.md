@@ -1,7 +1,10 @@
 # Hello Friends 👋
 
 <p align="center">
-  <img src="https://github.com/Mohammadflht/Mohammadflht/blob/master/Blush%20Botanical%20Aesthetic%20Gift%20Card%20Voucher.gif" alt="myInfo"></img>
+    <br><br><br><br>
+  <img src="My info 1.gif" alt="myInfo"></img>  
+  <br><br><br><br>
+  
 </p>
 
 # 🛠 Skills
