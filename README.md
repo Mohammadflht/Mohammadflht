@@ -19,7 +19,7 @@
 <br><br><br>
 <br><br><br>
 
-# 📊 Github Stats
+# 📊 Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohammadflht&theme=chartreuse-dark&hide_border=false)
 <br><br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadflht&layout=donut&theme=chartreuse-dark&hide_border=false)](https://github.com/mohammadflht/github-readme-stats)
