@@ -23,7 +23,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mohammadflht&theme=chartreuse-dark&hide_border=false)
 <br><br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadflht&layout=donut&theme=chartreuse-dark&hide_border=false)](https://github.com/mohammadflht/github-readme-stats)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadflht&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadflht" /> </p>
 
 <br><br><br>
 <br><br><br>
